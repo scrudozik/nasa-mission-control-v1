@@ -1,5 +1,5 @@
 txt
 
-streamline
+streamlit
 requests
 pillow
